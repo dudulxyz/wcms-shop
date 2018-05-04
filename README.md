@@ -89,7 +89,8 @@ Add Code Before </section>
 Change 'shop' in the code below and add it to your theme.php (to show it on that specific page)
 Make sure 'shop' exists.
 
-
+#Password Admin editor
+default is admin212
 
 
 # Features

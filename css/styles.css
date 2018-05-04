@@ -1,0 +1,24 @@
+.container {
+	padding-top: 20px;
+}
+
+input {
+    text-align: left;
+}
+
+.form-group {
+	padding: 10px;
+}
+
+.tstr {
+	padding: 0;
+}
+
+.tstr .btn {
+	margin-top: 15px;
+	float: right;
+}
+
+.frm-tool {
+	display: inline-block;
+}

@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule data.js - [F]
